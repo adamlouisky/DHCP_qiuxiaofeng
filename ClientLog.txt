@@ -1,0 +1,10 @@
+2019-04-28 19:15:15.986 - Server Uptime: 22ms
+DHCPClient: init complete server started
+
+2019-04-28 19:15:16.999 - Server Uptime: 1023ms
+DHCPClient: Broadcasting Discover Message
+2019-04-28 19:15:56.906 - Server Uptime: 12ms
+DHCPClient: init complete server started
+
+2019-04-28 19:15:57.788 - Server Uptime: 886ms
+DHCPClient: Broadcasting Discover Message
